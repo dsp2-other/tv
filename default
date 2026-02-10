@@ -1,1 +1,11 @@
+#EXTINF:-1 tvg-id="HiruTV" tvg-logo="https://i.imgur.com/M66UqPB.png" group-title="Entertainment",Hiru TV
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AsiaTV" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Family",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+
+#EXTINF:-1 tvg-id="SiyathaTV" tvg-logo="https://i.imgur.com/9Zc8G7i.png" group-title="Entertainment",Siyatha TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+
+#EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://i.imgur.com/0hnpeq9.png" group-title="Entertainment",Swarnavahini
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
