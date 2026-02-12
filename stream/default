@@ -4,17 +4,29 @@ https://charana-cf.rumex.lk/live/IlJLKjhQejHywYze/360p.m3u8
 #EXTINF:-1 tvg-id="AsiaTV" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Family",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
 
-#EXTINF:-1 tvg-id="SiyathaTV" tvg-logo="https://i.imgur.com/9Zc8G7i.png" group-title="Entertainment",Siyatha TV
-https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-id="SiyathaTV" tvg-logo="https://dm6k7trzbu0wj.cloudfront.net/posters/1609/source.webp" group-title="Entertainment",Siyatha TV
+https://charana-cf.rumex.lk/live/yToCCmhmNKkWaXku/360p.m3u8
 
-#EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://i.imgur.com/0hnpeq9.png" group-title="Entertainment",Swarnavahini
+#EXTINF:-1 tvg-id="Swarnavahini-site" tvg-logo="https://i.imgur.com/0hnpeq9.png" group-title="Entertainment",Swarnavahini-site
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Derana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_TV_Derana.jpg/500px-Logo_TV_Derana.jpg" group-title="Entertainment",Derana
+#EXTINF:-1 tvg-id="Derana" tvg-logo="https://dm6k7trzbu0wj.cloudfront.net/posters/1590/source.webp" group-title="Entertainment",Derana
 https://charana-cf.rumex.lk/live/csdmTtJnkCwvXgod/360p.m3u8
 
 #EXTINF:-1 tvg-id="Sirasa" tvg-logo="https://sirasatv.lk/assets/images/Sirasa_TV_Logo.png" group-title="Entertainment",Sirasa
 https://charana-cf.rumex.lk/live/JlKbHLMYvvEFYvlu/360p.m3u8
 
-#EXTINF:-1 tvg-id="HiruTV-site" tvg-logo="https://i.imgur.com/M66UqPB.png" group-title="Other links",Hiru TV-hirutv.lk
+#EXTINF:-1 tvg-id="HiruTV-site" tvg-logo="https://i.imgur.com/M66UqPB.png" group-title="other links",Hiru TV-site
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SiyathaTV-site" tvg-logo="https://i.imgur.com/9Zc8G7i.png" group-title="other links",Siyatha TV-site
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+
+#EXTINF:-1 tvg-id="Swarnavahini" tvg-logo="https://i.imgur.com/0hnpeq9.png" group-title="Entertainment",Swarnavahini
+https://charana-cf.rumex.lk/live/OplTHNHgJtgwGPen/360p.m3u8
+
+#EXTINF:-1 tvg-id="Rupawahini" tvg-logo="https://dm6k7trzbu0wj.cloudfront.net/posters/1616/source.webp" group-title="Entertainment",Rupawahini
+https://charana-cf.rumex.lk/live/OpgmxjyZGoUQXJgO/360p.m3u8
+
+#EXTINF:-1 tvg-id="ITN" tvg-logo="https://dm6k7trzbu0wj.cloudfront.net/posters/1587/source.webp" group-title="Entertainment",ITN
+https://charana-cf.rumex.lk/live/fgJBeMeotXpvORaE/360p.m3u8
